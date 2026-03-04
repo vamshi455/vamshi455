@@ -1,19 +1,22 @@
 # Hi there, I'm Vamshi Singam 👋
 
-## 🚀 Senior Data & AI Engineer | Houston, TX
+## 🚀 Lead Data Engineering / Data Architect / AI Engineer | Houston, TX
 
-I build intelligent, scalable data platforms that power real-world decisions — leveraging the latest in cloud infrastructure, AI agents, and large language models.
+**Agentic AI | GenAI | RAG/Graph RAG | LLMs | LangChain | Vector DBs | Full Stack | Enterprise AI Solutions**
+
+I build intelligent, scalable data platforms and enterprise AI solutions that power real-world decisions — leveraging the latest in cloud infrastructure, agentic AI frameworks, and large language models.
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Currently building **Agentic AI** systems and enterprise-grade **Data Platforms**
+- 🔭 Currently building **Agentic AI** systems and enterprise-grade **Data Platforms** at **MHK TECH INC**
 - 🌩️ Deep expertise across **Azure** (Fabric, Databricks, Synapse, AI Foundry, Purview) and **AWS** (Glue, EMR, Bedrock, Athena)
 - ❄️ Experienced **Snowflake** architect for data warehousing and analytics
-- 🤖 Passionate about **LLMs**, **RAG systems**, **LangGraph**, and **multi-agent frameworks**
+- 🤖 Passionate about **LLMs**, **RAG / Graph RAG systems**, **LangChain**, **Vector DBs**, and **multi-agent frameworks**
 - 🌱 Continuously learning: MCP, Graph Databases (Neo4j), Quantum Computing
 - 📍 Based in **Houston, Texas**
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/vamshi-singam-82963556/)
 
 ---
 
@@ -60,7 +63,7 @@ I build intelligent, scalable data platforms that power real-world decisions —
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-singam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshi-singam-82963556/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vamshi455)
 
 ---
