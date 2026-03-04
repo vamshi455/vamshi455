@@ -1,6 +1,6 @@
 # Hi there, I'm Vamshi Singam 👋
 
-## 🚀 Lead Data Engineering / Data Architect / AI Engineer | Houston, TX
+## 🚀 Full Stack Engineer / Lead Data Engineer / AI Engineer | Houston, TX
 
 **Agentic AI | GenAI | RAG/Graph RAG | LLMs | LangChain | Vector DBs | Full Stack | Enterprise AI Solutions**
 
